@@ -1,4 +1,4 @@
- defaultTasks 'clean', 'test', 'aggregate'
+defaultTasks 'clean', 'test', 'aggregate'
 
 repositories {
     mavenLocal()
